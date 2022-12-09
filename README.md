@@ -14,7 +14,7 @@ Me puedes encontrar en diferentes redes sociales como twitter [@EstebanPJ](https
 Me gusta Django
 
 ``` python
-aficiones = ["Reventar en valorant"]
+aficiones = ["Programar páginas webs"]
 print(aficiones)
 ```
 
