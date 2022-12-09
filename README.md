@@ -2,7 +2,7 @@
 
 ## Quien soy
 
-Soy un estudiante de 2º de DAWque, además de ser una *máquina*, estoy aprendiendo Markdown y Githb pages.
+Soy un estudiante de 2º de DAW que le encanta la programación, crear páginas webs y además estoy aprendiendo Markdown y Githb pages.
 
 ## Donde encontrarme
 
